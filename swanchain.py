@@ -1,6 +1,6 @@
 # Auto deploy smartcontract
 # Auto write function smartcontract
-# Auto send tswan token ke random address
+# Auto send tSwan token ke random address
 # KAMPUS AIRDROP
 # https://t.me/KampusAirdrop
 
